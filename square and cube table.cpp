@@ -7,7 +7,7 @@ int main()
     cin >> num;
     for (int i = 1; i <= num; i++)
     {
-
+//changes
         cout << i << "\t\t " << pow(i, 2) << "\t\t" << pow(i, 3) << endl;
     }
     return 0;
